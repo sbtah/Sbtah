@@ -6,11 +6,8 @@ I'm a self taught Python Developer with proficiency in Python, SQL, Linux, Bash,
 
 Here are some of the technologies and tools that I'm proficient in:
 
-- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
-- <img src="https://img.icons8.com/color/48/000000/linux.png"/> Linux
-- <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> Bash
-- <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker
+<img src="https://img.icons8.com/color/48/000000/python.png"/> Python | <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL <img src="https://img.icons8.com/color/48/000000/linux.png"/> Linux | <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> Bash | <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker
+
 
 ## Projects
 
@@ -25,4 +22,3 @@ Here are some of the projects that I have worked on:
 If you're interested in working with me or have any questions, feel free to reach out to me:
 
 - Email: shisastore@protonmail.com
-
