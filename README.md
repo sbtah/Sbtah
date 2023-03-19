@@ -6,7 +6,7 @@ I'm a self taught Python Developer with proficiency in Python, SQL, Linux, Bash,
 
 Here are some of the technologies and tools that I'm proficient in:
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/><img src="https://img.icons8.com/color/48/000000/xpath.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/linux.png"/><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/ios-filled/50/000000/selenium-test-automation.png"/>
 
 
 ## Projects
@@ -16,9 +16,3 @@ Here are some of the projects that I have worked on:
 - [Project 1](https://github.com/sbtah/e-Scraper) - A Django/web scraper application for designed to track ecommerce stores. Made with Selenium and lxml.
 - [Project 2](https://github.com/sbtah/from-Shoper) - A Django app used to copy contents of Shoper store via API.
 - [Project 3](https://github.com/sbtah/compTrends) - An asynchronous API scraper made with Django and httpx.
-
-## Contact
-
-If you're interested in working with me or have any questions, feel free to reach out to me:
-
-- Email: shisastore@protonmail.com
