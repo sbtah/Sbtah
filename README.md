@@ -16,5 +16,3 @@ Here are some of the projects that I have worked on:
 - [e-Scraper](https://github.com/sbtah/e-Scraper) - A Django/web scraper application for designed to track ecommerce stores. Made with Selenium and lxml.
 - [from-Shoper](https://github.com/sbtah/from-Shoper) - A Django app used to copy contents of Shoper store via API.
 - [compTrends](https://github.com/sbtah/compTrends) - An asynchronous API scraper made with Django and httpx.
-
-#
