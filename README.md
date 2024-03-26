@@ -1,6 +1,6 @@
 # Hi there, I'm Grzegorz! 👋
 
-I'm a self taught Python Developer with proficiency in Python, SQL, Linux, Bash, and Docker. I enjoy writing clean and efficient code, and I am always eager to learn new technologies.
+I'm a Python Developer with proficiency in Python, SQL, Linux, Bash, and Docker. I enjoy writing clean and efficient code, and I am always eager to learn new technologies.
 
 ## Skills
 
