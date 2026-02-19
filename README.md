@@ -12,4 +12,4 @@
 <img src="https://img.icons8.com/color/48/prometheus-app.png"/>
 <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=playwright" height="48"/>
