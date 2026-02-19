@@ -12,4 +12,4 @@
 <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/playwright/45ba4b" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=playwright" height="48"/>
